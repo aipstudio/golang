@@ -1,0 +1,53 @@
+{
+  "data": {
+    "stats": {
+      "miner_version": "15.0 - ETH",
+      "running_minutes": 4209,
+      "eth_report": {
+        "total_mhs": 59528,
+        "shares": 1542,
+        "rejected_shares": 0,
+        "invalid_shares": 0,
+        "pool_switches": 0,
+        "mhs_per_gpu": [{
+          "mhs": 29714,
+          "gpu": 0
+        }, {
+          "mhs": 29814,
+          "gpu": 1
+        }]
+      },
+      "alt_report": {
+        "total_mhs": 0,
+        "shares": 0,
+        "rejected_shares": 0,
+        "invalid_shares": 0,
+        "pool_switches": 0,
+        "mhs_per_gpu": [{
+          "mhs": 0,
+          "gpu": 0
+        }, {
+          "mhs": 0,
+          "gpu": 1
+        }]
+      },
+      "temp_and_fan_reports": [{
+        "temp": 58,
+        "fan": 62,
+        "gpu": 0
+      }, {
+        "temp": 58,
+        "fan": 62,
+        "gpu": 1
+      }],
+      "pools": ["eu1-etc.ethermine.org:4444"]
+    },
+    "extra": {
+      "highest_temp": {
+        "temp": 0,
+        "fan": 0,
+        "gpu": 0
+      }
+    }
+  }
+}
